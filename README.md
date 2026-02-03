@@ -1,2 +1,3 @@
 # Machine Learning
-Machine Learning Related Code
+
+Understanding Machine Learning by Seeing it Unfold
